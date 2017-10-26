@@ -1,5 +1,5 @@
 from Tkinter import *
-
+#tjo man
 
 def on_entry_click(event): #funktionen så det står texten ip
 		global firstclick
